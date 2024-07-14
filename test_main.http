@@ -1,0 +1,10 @@
+# Test your FastAPI endpoints
+# 类似于我们在网页上进行端口测试
+
+GET http://127.0.0.1:8050/user
+Accept: application/json
+###
+
+GET http://127.0.0.1:8050/hello/User
+Accept: application/json
+###
