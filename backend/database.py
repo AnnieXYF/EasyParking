@@ -11,7 +11,7 @@ from sqlalchemy.sql import func
 # SQLALCHEMY_DATABASE_URL = 'sqlite:///./coronavirus.sqlite3'
 # SQLALCHEMY_DATABASE_URL = "postgresql://username:password@host:port/database_name"
 # MySQL或PostgreSQL的连接方法如下
-SQLALCHEMY_DATABASE_URL = "mysql+pymysql://root:Ff961206@127.0.0.1:3306/easy_parking_py"
+SQLALCHEMY_DATABASE_URL = "mysql+pymysql://root:Wsxedcrfvtgb10!@127.0.0.1:3306/easy_parking_py"
 
 engine = create_engine(
     # echo=True表示引擎将用repr()函数记录所有语句及其参数列表到日志
